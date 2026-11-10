@@ -4,7 +4,7 @@ I’m Yuan, a builder exploring how people and AI agents can create useful produ
 
 ## ☀️ Featured project: Today
 
-**A calmer way to plan your day.** Today brings calendar, reminders, and alarms together in a native iPhone app. Your data stays local, and AI-assisted changes come with review and undo.
+**A calmer way to plan your day.** Today brings calendar, reminders, and alarms together in a native iPhone app. Planner data stays on device; AI-assisted changes can be undone, and higher-impact changes are previewed for confirmation.
 
 This is my main open-source project, and I iterate on it every day.
 
@@ -18,7 +18,11 @@ This is my main open-source project, and I iterate on it every day.
 
 **[attention0 skills](https://github.com/socialnetwork0/attention0-skills)** — tools for getting website data while using fewer tokens.
 
-Previously, I built **[SoraStats](https://sorastats.com/)** solo.
+## Creator data at scale
+
+**[SoraStats](https://sorastats.com/)** — I built and launched an independent archive and analytics site for the Sora creator ecosystem.
+
+**YouTube data infrastructure** — built a large-scale, privately held third-party YouTube database and the collection infrastructure behind it. The database is not publicly available.
 
 ---
 
