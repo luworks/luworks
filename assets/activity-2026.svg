@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">2026 GitHub activity snapshot</title><desc id="desc">6,252 authored pull requests merged, including private repositories; 1,086 public commit contributions; and 25,643 total contributions including anonymized private activity. Snapshot through November 10, 2026 UTC.</desc>
+<rect width="1200" height="250" rx="18" fill="#13222e"/>
+<text x="42" y="43" fill="#9dc6b7" font-family="Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">2026  /  GITHUB ACTIVITY</text>
+<text x="1155" y="43" text-anchor="end" fill="#afc0bf" font-family="Arial,sans-serif" font-size="16">SNAPSHOT · NOV 10 UTC</text>
+<path d="M400 69v130 M800 69v130" stroke="#38505a" stroke-width="2"/>
+<g font-family="Arial,sans-serif"><text x="42" y="123" fill="#f4c083" font-weight="700" font-size="48">6,252</text><text x="42" y="156" fill="#f7f4ec" font-size="19">authored PRs merged</text><text x="42" y="184" fill="#adc2bd" font-size="15">public + private repositories</text>
+<text x="439" y="123" fill="#f4c083" font-weight="700" font-size="48">1,086</text><text x="439" y="156" fill="#f7f4ec" font-size="19">public commit contributions</text><text x="439" y="184" fill="#adc2bd" font-size="15">private commits not broken out</text>
+<text x="839" y="123" fill="#f4c083" font-weight="700" font-size="48">25,643</text><text x="839" y="156" fill="#f7f4ec" font-size="19">total contributions</text><text x="839" y="184" fill="#adc2bd" font-size="15">includes anonymized private activity</text></g>
+<text x="42" y="225" fill="#8fa8a4" font-family="Arial,sans-serif" font-size="14">Different GitHub metrics and date rules; not additive. Includes AI-assisted work.</text>
+</svg>

@@ -10,6 +10,12 @@ This is my main open-source project, and I iterate on it every day.
 
 **[Explore Today →](https://github.com/luworks/today)** &nbsp; · &nbsp; [See recent work](https://github.com/luworks/today/commits/main/) &nbsp; · &nbsp; [Read the iOS guide](https://github.com/luworks/today/blob/main/ios/README.md)
 
+## 2026 activity snapshot
+
+![2026 GitHub activity: 6,252 authored PRs merged in public and private repositories, 1,086 public commit contributions, and 25,643 total contributions including anonymized private activity. Snapshot through November 10, 2026 UTC.](assets/activity-2026.svg)
+
+<sub>Snapshot taken November 10, 2026 (UTC); it does not update automatically. Merged PRs are those authored by this account and merged during 2026. GitHub does not break out private commits in its anonymized contribution totals. The contribution graph below updates separately.</sub>
+
 ## More things I’m building
 
 **[Moon Factory](https://github.com/luworks/github-factory)** — explore a public GitHub codebase as a living world. [Try it →](https://chaorders.com/github-factory/)
