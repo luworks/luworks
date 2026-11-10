@@ -14,7 +14,7 @@ This is my main open-source project, and I iterate on it every day.
 
 **[Moon Factory](https://github.com/luworks/github-factory)** — explore a public GitHub codebase as a living world. [Try it →](https://chaorders.com/github-factory/)
 
-**[openchat](https://github.com/luworks/openchat)** — practices and tools for a team of always-on AI agents, shared as daily snapshots.
+**[apify-self-scrape](https://github.com/luworks/apify-self-scrape)** — a Python and Playwright scraper for Apify Store actor listings, exported to CSV.
 
 **[attention0 skills](https://github.com/socialnetwork0/attention0-skills)** — tools for getting website data while using fewer tokens.
 
