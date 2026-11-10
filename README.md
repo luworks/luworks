@@ -1,4 +1,4 @@
-![luworks — building for a better today](assets/profile-banner.svg)
+![luworks — building for a better today](assets/luworks-banner.svg)
 
 I’m **luworks**, a founder and forward deployed engineer building AI products, data infrastructure, and tools that help people do more. I work across product, architecture, and production delivery.
 
