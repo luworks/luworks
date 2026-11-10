@@ -1,6 +1,6 @@
-![Yuan Lu — building for a better today](assets/profile-banner.svg)
+![luworks — building for a better today](assets/profile-banner.svg)
 
-I’m Yuan, a builder exploring how people and AI agents can create useful products together. I like small teams, thoughtful tools, and shipping in the open.
+I’m **luworks**, a founder and forward deployed engineer building AI products, data infrastructure, and tools that help people do more. I work across product, architecture, and production delivery.
 
 ## ☀️ Featured project: Today
 
@@ -18,9 +18,17 @@ This is my main open-source project, and I iterate on it every day.
 
 **[attention0 skills](https://github.com/socialnetwork0/attention0-skills)** — tools for getting website data while using fewer tokens.
 
+## Experience & highlights
+
+- **From idea to production.** Led the delivery of a career-services platform, from customer discovery and database architecture through launch and operations. Built an AI workspace for document analysis and business tools.
+- **Creator data and AI infrastructure.** Built data collection and APIs across YouTube, TikTok and Instagram, and delivered validated, deduplicated audio for model pretraining.
+- **Engineering foundations.** Previously worked in reliability engineering at Rivian and Applied Materials, translating real-world failure analysis into validation strategies.
+- **Recognition.** Joint first place at the Anthropic MCP Hackathon; first place at Rivian’s internal AI hackathon.
+- **Education.** PhD in Manufacturing Engineering from Worcester Polytechnic Institute; BS in Mechanical Engineering from Tsinghua University.
+
 ## Creator data at scale
 
-**[SoraStats](https://sorastats.com/)** — I built and launched an independent archive and analytics site for the Sora creator ecosystem.
+**[SoraStats](https://sorastats.com/)** — I built and launched an independent archive and analytics site for the Sora creator ecosystem in five days. It reached 1,500+ registered users and 100+ paying customers, as recorded in my resume.
 
 **YouTube data infrastructure** — built a large-scale, privately held third-party YouTube database and the collection infrastructure behind it. The database is not publicly available.
 

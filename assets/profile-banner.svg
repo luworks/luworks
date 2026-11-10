@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-<title id="title">Yuan Lu — building for a better today</title><desc id="desc">A midnight blue banner with a warm sunrise and a calendar-inspired grid.</desc>
+<title id="title">luworks — building for a better today</title><desc id="desc">A midnight blue banner with a warm sunrise and a calendar-inspired grid.</desc>
 <rect width="1200" height="300" rx="18" fill="#101c29"/>
 <circle cx="1015" cy="150" r="190" fill="#192d3b"/>
 <circle cx="1015" cy="150" r="125" fill="#233d49"/>
@@ -7,7 +7,7 @@
 <path d="M825 181h375v119H825z" fill="#101c29"/>
 <path d="M825 181h375" stroke="#78938b" stroke-width="2"/>
 <g fill="#91a9a7" opacity=".65"><circle cx="866" cy="72" r="3"/><circle cx="925" cy="56" r="3"/><circle cx="1104" cy="76" r="3"/><circle cx="1147" cy="128" r="3"/></g>
-<text x="68" y="76" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#93c2b2">YUAN LU  /  LUWORKS</text>
+<text x="68" y="76" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#93c2b2">LUWORKS</text>
 <text x="64" y="149" font-family="Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1" fill="#f6f4eb">Building for a better today.</text>
 <text x="68" y="204" font-family="Arial, sans-serif" font-size="22" fill="#b7c8c7">Thoughtful products · Open source · AI agents</text>
 <path d="M68 242h72" stroke="#f2bc78" stroke-width="4" stroke-linecap="round"/>
